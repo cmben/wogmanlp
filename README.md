@@ -1,2 +1,2 @@
-# Topic Modelling on Wamba Reviews text.
-NLP experiments with womba review site.
+# Topic Modelling on Wogma Reviews text.
+NLP experiments with wogma review site.
