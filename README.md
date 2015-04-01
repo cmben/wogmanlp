@@ -20,3 +20,9 @@ This code attempts to find out number of topics which comprises these reviews te
 
 ##Limitations
 The code seems to work fine with small data (100 reviews or so). But is extremely slow for full text (1000 reviews). Also, with large data, the EM step does not converge even after 500 iterations.
+
+##Reference
+1. Probabilistic Latent Semantic Analysis, 1999, Hoffman. http://cs.brown.edu/~th/papers/Hofmann-UAI99.pdf
+2. Wiki page for PLSA 
+3. Wiki Page for TF-IDF
+4. Bag of Words Tutorial https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
