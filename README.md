@@ -5,6 +5,8 @@ Wogma is a Movie review site with reviews available over 1000 movies in Hollywoo
 
 This code attempts to find out number of topics which comprises these reviews texts and most important words belonging to that topic. The code is implemented in an unsupervised manner using technique known as PLSA (Probablilistic Latent Semantic Analysis). Read more about it here http://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis
 
+Sample result is given in sample_result.txt
+
 ##Step By Step Guide 
 1. Scrape the list of all urls which contains reviews. Please see urllist.py. The sample is given is listofurls.txt
 2. For each url, extract review text from html pages. Refer data.py
@@ -26,3 +28,4 @@ The code seems to work fine with small data (100 reviews or so). But is extremel
 2. Wiki page for PLSA 
 3. Wiki Page for TF-IDF
 4. Bag of Words Tutorial https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words
+
